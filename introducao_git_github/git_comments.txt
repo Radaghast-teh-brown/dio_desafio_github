@@ -1,0 +1,8 @@
+Neste arquivo apresento os comandos principais para a utilização inicial do Git
+
+- git clone: clona uma repositório para a máquina local;
+- git init: inicia o git em um diretório desejado
+- git add .: adiciona todos os arquivos dentro do diretório selecionado.
+- git commit -m "comentário": é uma forma de validar as modificações entre os arquivos locais e remoto.
+- git status: mostra as modificações feitas e o estado dos arquivos/diretórios.
+- git push origin main/master/nome_da_branch: "empurra" as modificações feitas.
